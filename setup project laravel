@@ -1,0 +1,8 @@
+zip my project
+put the project into your htdocs folder
+composer install in project directory
+in phpmyadmin create database name crm
+php artisan key:generate in project directory
+php aritsan migrate in project directory
+php artisan db:seed in project directory
+php artisan serve in project directory
